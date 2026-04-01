@@ -4,14 +4,15 @@
 暂无。。。。。。。。。
 
 #### 软件架构
-软件架构说明
 
+软件系统及安装包说明
+
+OpenHarmony6.01 on arm(PC)
+HUAWEI HarmonyOS6.01(PC)
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+OpenHarmony:点击左侧发行版下载链接，下载完毕后，openharmony弹窗后点击<span style="color:red;">蓝色</span>「安装」
 
 #### 使用说明
 
