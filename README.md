@@ -13,7 +13,7 @@ HUAWEI Harmony OS 6.01(PC)
 
 #### 安装教程
 
-OpenHarmony:点击左侧发行版下载链接，下载完毕后，openharmony弹窗后点击「安装」即可[输入图片说明](IMG_1559.jpeg)
+OpenHarmony:点击左侧发行版下载链接，下载完毕后，openharmony弹窗后点击「安装」即可[安装指引](IMG_1559.jpeg)
 
 HUAWEI harmony OS：下载完hap包后使用小白调试助手、ho-kit或HAP资源站安装工具调试安装
 
