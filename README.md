@@ -29,11 +29,8 @@ HAP资源站安装工具：https://hdc.osbdf.com/hap-tool.php
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
-#### 参与贡献名单
+#### 参与贡献人员名单
 
 1. 白枕
 
